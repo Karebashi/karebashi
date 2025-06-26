@@ -9,8 +9,8 @@
 ### 📈 Estadísticas de GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[Karebashi]&show_icons=true&theme=radical" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[Karebashi]&layout=compact&theme=radical" alt="langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Karebashi&show_icons=true&theme=radical" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Karebashi&layout=compact&theme=radical" alt="langs" />
 </p>
 
 ### 📫 Contacto
