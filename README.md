@@ -16,9 +16,9 @@
 ### 📈 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Karebashi&show_icons=true&theme=radical" alt="stats" />
-  <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Karebashi&layout=compact&theme=radical" alt="langs" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api?username=Karebashi&show_icons=true&theme=radical" alt="stats" />
 </p>
 
 <br>
