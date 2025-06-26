@@ -1,2 +1,2 @@
-<h1 align="center">Hi 👋, I'm [Tu Nombre o Usuario]</h1>
-<h3 align="center">Estudiante de Ingeniería de Sistemas y Computación en la UDEC</h3>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Karebashi" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&width=435&lines=Estudiante+de+Ingenier%C3%ADa+de+Sistemas+y+Computaci%C3%B3n+en+la+UDEC" alt="Typing SVG" /></a>
