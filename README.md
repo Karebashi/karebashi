@@ -5,3 +5,14 @@
 💻 Apasionado por el **desarrollo full-stack**, con especial amor por el **frontend**  
 🎨 Me gusta crear interfaces intuitivas, limpias y funcionales  
 🚀 Siempre buscando mejorar mis habilidades y colaborar en proyectos retadores  
+
+### 📈 Estadísticas de GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=[tu_usuario]&show_icons=true&theme=radical" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[tu_usuario]&layout=compact&theme=radical" alt="langs" />
+</p>
+
+### 📫 Contacto
+
+- ✉️ [maicolllsanti@gmail.com]  
